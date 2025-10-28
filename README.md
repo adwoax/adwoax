@@ -1,5 +1,5 @@
 <h1>👨‍💻 Adwoa Daki</h1>
-<h3>Hi, I'm Adwoa!</h3> <br/><a href="https://github.com/adwoax">Programmer</a>, <a href="www.linkedin.com/in/adwoa-daki-a40323376">Upcoming Frontend Developer</a>
+<h3>Hi, I'm Adwoa!</h3> <br/><a href="https://github.com/adwoax">Programmer</a>, <a href="www.linkedin.com/in/adwoa-daki-a40323376">Junior Frontend Developer</a>
 
 
 <h2> 🤳 Connect with me:</h2>
